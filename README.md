@@ -6,7 +6,7 @@ Modules:
 3. Abstraction and simultation for analogical reasoning
 4. De-biasing, fine-tuning transformers for NLP
 5. DALL-E-2 and diffusion models
-6. CV for videos and robotics 
+6. CV for videos and robotics and neural radiance fields (or [similar](https://www.matthewtancik.com/nerf))
 
 Many might just say: *isn't this too much?*. 
 
